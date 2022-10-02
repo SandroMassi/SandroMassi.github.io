@@ -1,2 +1,1 @@
-# SandroMassi.github.io
-Examenfinal
+# MiTiendaVirtual.github.io
